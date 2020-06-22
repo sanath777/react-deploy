@@ -4,7 +4,7 @@ Coding mart Project-2
 
 ## Getting Started
 
-This Project is based on html css javascript using React js framework to deploy the webpage. 
+This Project is based on html css javascript using React js Library to deploy the webpage. 
 
 ### Prerequisites
 
@@ -51,13 +51,13 @@ i.e.., event.preventDefault() not responding during live session
 ```
 ## Deployment
 
-1.Insatll nodejs on local machine
-2.Try Using VS Code terminal for deploying react app
-3.run
+* Insatll nodejs on local machine
+* Try Using VS Code terminal for deploying react app
+* run
 ```
 npx create-react-app react-deploy
 ```
-4.type, to start react port
+* type, to start react port
 ```
 npm start
 ```
