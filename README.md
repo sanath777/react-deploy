@@ -51,7 +51,7 @@ i.e.., event.preventDefault() not responding during live session
 ```
 ## Deployment
 
-* Insatll nodejs on local machine
+* Install nodejs on local machine
 * Try Using VS Code terminal for deploying react app
 * run
 ```
